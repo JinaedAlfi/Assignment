@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+}
+header{
+overflow: hidden;
+}
+.logo{
+    width: 20%;
+    height: 100px;
+    background-color: rgb(194, 132, 52);
+    text-align: center;
+    color: white;
+    float: left;
+}
+.menue{
+    width: 80%;
+    height: 100px;
+    background-color:rgb(25, 116, 93);
+    text-align: center;
+    color: white;
+    float: right;
+}
+.bar{
+    background-color: rgb(85, 17, 148);
+    text-align: center;
+    color: white;
+    height: 70px;
+}
+.content{
+overflow: hidden;
+}
+.left_content{
+    width: 20%;
+    height: 600px;
+    background-color: chocolate;
+    text-align: center;
+    color: white;
+    float: left;
+}
+.middle_content{
+    width: 60%;
+    height: 600px;
+    background-color: cornflowerblue;
+    text-align: center;
+    color: white;
+    float: left;
+}
+.right_content{
+    width: 20%;
+    height: 600px;
+    background-color: rgb(30, 50, 85);
+    text-align: center;
+    color: white;
+    float: left;
+}
+.top{
+    height: 30%;
+    background-color: brown;
+}
+.center{
+    height: 40%;
+    background-color: rgb(158, 126, 126);
+    overflow: hidden;
+}
+.bottom{
+    height: 30%;
+    background-color: rgb(70, 20, 20);
+}
+.center_left{
+    height: 100%;
+    width: 50%;
+    background-color: darkslategray;
+    text-align: center;
+    color: white;
+    float: left;
+   
+}
+.center_right{
+    height: 100%;
+    width: 50%;
+    background-color: dimgray;
+    text-align: center;
+    color: white;
+    float: right;    
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center; 
+    height: 150px; 
+   
+}
